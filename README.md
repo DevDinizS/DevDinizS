@@ -1,6 +1,8 @@
 ### Olá, eu sou o Filipe Diniz
 
+- 💻 Cursando Ciência da Computação
 - 🌱 Estudando Python
+- 👀 Veja os meus projetos!
 
 
   <div class:"icons">
