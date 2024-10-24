@@ -12,6 +12,14 @@
     <img align="center" alt="Filipe-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   </div>
 
+  ## Estatísticas do GitHub
+<div>
+  <a href="https://github.com/DevDinizS">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevDinizS&layout=compact&langs_count=16&theme=onedark"/>
+  </a>
+</div>
+
+---
 
   ##
 
@@ -21,3 +29,5 @@
     <a href = "mailto:filipe.rj53@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=black" target="_blank"></a>
     <a href="https://linkedin.com/in/filipe-diniz53" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=black" target="_blank"></a>
   </div>
+
+  Obrigado por visitar meu perfil! 😄
