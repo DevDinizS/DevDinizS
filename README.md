@@ -1,7 +1,7 @@
 ### Olá, eu sou o Filipe Diniz
 
 - 💻 Cursando Ciência da Computação
-- 🌱 Estudando Python
+- 🌱 Estudando DataBase
 - 👀 Veja os meus projetos!
 
 
