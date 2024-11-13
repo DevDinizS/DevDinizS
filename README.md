@@ -12,15 +12,6 @@
     <img align="center" alt="Filipe-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   </div>
 
-  ## Estatísticas do GitHub
-<div>
-  <a href="https://github.com/DevDinizS">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevDinizS&layout=compact&langs_count=16&theme=onedark"/>
-  </a>
-</div>
-
----
-
   ##
 
   
