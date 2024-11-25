@@ -21,4 +21,4 @@
     <a href="https://linkedin.com/in/filipe-diniz53" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=black" target="_blank"></a>
   </div>
 
-  Siga-me, e obrigado por visitar meu perfil! 😄
+  Siga-me e obrigado por visitar meu perfil! 😄
